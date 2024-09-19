@@ -3,7 +3,7 @@
 🎓 Master’s Degree in MAS, AI Pathway  
 📊 Dual Degree in Magistère of Statistics and Economic Modeling
 
-([link my CV](https://github.com/Minimugule/CV))
+([link to my CV](https://github.com/Minimugule/CV))
 
 ## About Me
 I am passionate about artificial intelligence, statistical modeling and data analysis. Here are some of the projects I completed during my studies.
